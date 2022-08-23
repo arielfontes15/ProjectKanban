@@ -1,4 +1,0 @@
---color-green-light: #66bb6a
---color-green: #43a047
---color-grey: #e0e0e0
---color-white: #f0f0f0
